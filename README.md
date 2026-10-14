@@ -37,11 +37,13 @@ Targets (from the PRD): recovery attempt within 30 seconds for 95% of cases, at 
 
 ## Prototype
 
+**Live demo:** https://vaswanipranjal.github.io/Instahelp_PRD/
+
 A static, mobile-first screen of the "auto-recovery in progress" state, built with Vite and vanilla JavaScript.
 
 ```bash
-git clone https://github.com/vaswanipranjal/Instahelp-PRD.git
-cd Instahelp-PRD
+git clone https://github.com/vaswanipranjal/Instahelp_PRD.git
+cd Instahelp_PRD
 npm install
 npm run dev
 ```
